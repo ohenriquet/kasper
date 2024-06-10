@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "https://ohenriquet.github.io/"
+baseurl: /blog
+domain_name: "https://mafconsultoriaetreinamento.com/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
