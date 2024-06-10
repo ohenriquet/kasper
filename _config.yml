@@ -1,5 +1,5 @@
 name: BLOG MAF CONSULTORIA E TREINAMENTO
-description: Blogging about stuffs	description: Artigos e Ebooks
+description: Artigos e Ebooks
 meta_description: "Blog da MAF Consultoria e Treinamento com os artigos e ebooks gratuitos."
 
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: "https://www.linkedin.com/in/ant%C3%B4nio-martiningo-0a4b5978/"
-author: "Your Name"	author: "Antonio Martiningo"
+author: "Antonio Martiningo"
 
 # Disqus config
 disqus-shortname: ""
