@@ -12,8 +12,8 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "https://www.linkedin.com/in/ant%C3%B4nio-martiningo-0a4b5978/"
-author: "Antonio Martiningo"
+url: ""
+author: "Your Name"
 
 # Disqus config
 disqus-shortname: ""
