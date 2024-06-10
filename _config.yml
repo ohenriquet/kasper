@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "BLOG DO ANTONIO"
+name: BLOG MAF CONSULTORIA E TREINAMENTO
+description: Blogging about stuffs	description: Artigos e Ebooks
+meta_description: "BLOG DO ANTONIO"	meta_description: "Blog da MAF Consultoria e Treinamento com os artigos e ebooks gratuitos."
 
 markdown: kramdown
 highlighter: rouge
@@ -12,8 +12,8 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
-author: "Your Name"
+url: "https://www.linkedin.com/in/ant%C3%B4nio-martiningo-0a4b5978/"
+author: "Your Name"	author: "Antonio Martiningo"
 
 # Disqus config
 disqus-shortname: ""
