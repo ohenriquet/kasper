@@ -1,6 +1,6 @@
 name: BLOG MAF CONSULTORIA E TREINAMENTO
 description: Blogging about stuffs	description: Artigos e Ebooks
-meta_description: "BLOG DO ANTONIO"	meta_description: "Blog da MAF Consultoria e Treinamento com os artigos e ebooks gratuitos."
+meta_description: "Blog da MAF Consultoria e Treinamento com os artigos e ebooks gratuitos."
 
 markdown: kramdown
 highlighter: rouge
