@@ -12,14 +12,15 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="https://mafconsultoriaetreinamento.com/">Site Institucional</a>
+                
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
+            <h1 class="page-title"><img src="https://mafconsultoriaetreinamento.com/assets/images/maf-logo.webp" alt="{{ site.name }}"></img></h1>
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+                {% if site.description %} {{ site.description }}{% endif %}
+                <!-- {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %} -->
             </h2>
         </div>
     </div>
@@ -45,7 +46,7 @@ about: 'about.html'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="{{'/assets/images/profile.png' | absolute_url}}" alt="Author's profile picture" nopin="nopin" />
+                <img class="author-thumb" src="{{'/assets/images/profile.jpg' | absolute_url}}" alt="Author's profile picture" nopin="nopin" />
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
