@@ -145,6 +145,9 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "\f603";
 }
 .icon-facebook:before {
+    content: "\f0e1";
+}
+.icon-linkedin:before {
     content: "\f604";
 }
 .icon-arrow-left:before {
