@@ -2,9 +2,12 @@
 layout: post
 title:  "Entenda o Papel da Governança Corporativa na Mitigação de Riscos"
 date:   2024-06-06 10:18:00
-categories: Governança-Corporativa
+categories: Governanca-Corporativa
 ---
+
 A governança corporativa desempenha um papel fundamental na mitigação de riscos dentro das organizações. Esse conceito refere-se às práticas e estruturas que as empresas adotam para garantir transparência, responsabilidade e tomada de decisões eficazes em todos os níveis. Aqui estão algumas maneiras pelas quais a governança corporativa contribui para a mitigação de riscos:
+
+![Entenda o Papel da Governança Corporativa na Mitigação de Riscos](https://mafconsultoriaetreinamento.com/blog/assets/images/blogpost-1234.png "Entenda o Papel da Governança Corporativa na Mitigação de Riscos")
 
 1.  **Estabelecimento de Estruturas de Controle**\
     Um dos principais objetivos da governança corporativa é estabelecer estruturas sólidas de controle interno. Isso inclui a definição clara de papéis e responsabilidades, segregação de funções-chave e implementação de políticas e procedimentos robustos. Essas medidas ajudam a identificar e mitigar riscos operacionais, financeiros e de conformidade.
