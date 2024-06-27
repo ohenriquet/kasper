@@ -6,14 +6,15 @@ about: 'about.html'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
     <nav class="main-nav overlay clearfix">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
+        {% if page.logo %}
+        <a class="blog-logo" href="{{ site.baseurl }}">
+            <img src="{{ page.logo }}" alt="Blog Logo" />
+        </a>
+        {% endif %}
         <a class="subscribe-button icon-feed" href="https://mafconsultoriaetreinamento.com/">Site Institucional</a>
-                
+        
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -22,8 +23,8 @@ about: 'about.html'
                 {% if site.description %} {{ site.description }}{% endif %}
                 <!-- {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %} -->
             </h2>
-            <div style="margin-top: 50px;display: flex;justify-content: center;"><a class="subscribe-button" href="https://tally.so/r/wMAGWp">eBook Crescimento Sustentável das Empresas</a></div>
-            <div style="margin-top: 10px;display: flex;justify-content: center;"><a class="subscribe-button" href="https://mafconsultoriaetreinamento.com/assets/Ebook%20Desvendando%20o%20Poder%20da%20Governanc%CC%A7a%20Corporativa.pdf">eBook Os Mitos mais Comuns sobre Gestão de Riscos</a></div>
+            <div style="margin-top: 50px;display: flex;justify-content: center;"><a class="subscribe-button" href="https://mafconsultoriaetreinamento.com/assets/Ebook%20Desvendando%20o%20Poder%20da%20Governan%C3%A7a%20Corporativa.pdf">eBook Crescimento Sustentável das Empresas</a></div>
+            <div style="margin-top: 10px;display: flex;justify-content: center;"><a class="subscribe-button" href="https://mafconsultoriaetreinamento.com/assets/Ebook%20Os%20Mitos%20mais%20Comuns%20sobre%20Gest%C3%A3o%20de%20Riscos%20Desmistificados%20por%20Consultores%20Especializados.pdf">eBook Os Mitos mais Comuns sobre Gestão de Riscos</a></div>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
