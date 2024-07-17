@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Importância da Avaliação de Riscos: Como a Consultoria Pode Ajudar sua Empresa a se Preparar"
+title:  "A Importância da Avaliação de Riscos- Como a Consultoria Pode Ajudar sua Empresa a se Preparar"
 date:   2024-07-17 09:18:00
 categories: Governanca-Corporativa
 ---
