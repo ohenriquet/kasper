@@ -10,6 +10,7 @@ baseurl: /blog
 domain_name: "https://mafconsultoriaetreinamento.com/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
+destination:  ../blog 
 
 # Details for the RSS feed generator
 url: ""
