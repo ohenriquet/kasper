@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inovações Tecnológicas na Gestão de Riscos: O Futuro Está Aqui"
+title:  "Governança Corporativa: Pilar Essencial na Gestão de Riscos Empresariais"
 date:   2024-11-08 09:18:00
 categories: governanca-corporativa
 ---
